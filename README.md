@@ -15,4 +15,6 @@ Execute o código com:
 
 ./banqueiro X1 X2 X3
 
-Exemplo: ./banqueiro 10 5 7
+Exemplo:
+
+./banqueiro 10 5 7
